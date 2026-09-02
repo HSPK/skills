@@ -1,0 +1,6 @@
+__pycache__/
+_smoke.*
+_p*.png
+_z*.png
+_check*.png
+*.tmp.svg
