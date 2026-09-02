@@ -11,6 +11,7 @@ because it only shows up as a wrong render or a silently corrupted export.
 
 | skill | what it does |
 | --- | --- |
+| [`experiment-engineering`](skills/experiment-engineering) | Large-scale ML/RL experiment engineering — inspect the real system, preserve benchmark semantics, design by ownership and lifecycle, debug from Rollout evidence, validate in stages, and recover remote runs without blind retries. |
 | [`journal-schematic`](skills/journal-schematic) | Publication-quality schematic figures — study-design diagrams, CONSORT charts, analytic pipelines — hand-generated as SVG at true print size, verified by rasterising and looking at them, exported to 600 dpi PNG or editable PowerPoint. Not for data plots. |
 
 ## Installing
